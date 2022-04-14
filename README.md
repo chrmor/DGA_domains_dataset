@@ -8,4 +8,5 @@ You are free to download and use the data for reseaerch purposes. If you use dat
 
 
 #Cucchiarelli, A., Morbidoni, C., Spalazzi, L., Baldi, M., Algorithmically generated malicious domain names detection based on n-grams features (2021) Expert Systems with Applications, 170, art. no. 114551
-#https://doi.org/10.1016/j.eswa.2020.114551
+
+https://doi.org/10.1016/j.eswa.2020.114551
